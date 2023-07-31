@@ -23,3 +23,8 @@ Veremos como configurar un servidor de correos, como corregir la fragmentación 
 ## ¿Por qué es importante optimizar tu base de datos?
 ![image](https://github.com/javiweb549/Curso-de-Optimizaci-n-de-Bases-de-Datos-en-SQL-Server/assets/85122599/91a6fa78-d51e-41df-8c30-ff99ef8ac6f3)![image](https://github.com/javiweb549/Curso-de-Optimizaci-n-de-Bases-de-Datos-en-SQL-Server/assets/85122599/36ddbfce-82ef-4509-9916-4ccadc1fe4d7)
 
+## Instalación de la base de datos
+
+## Analizar un plan de ejecución
+
+
